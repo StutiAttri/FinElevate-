@@ -34,7 +34,7 @@ FinElevate is a web platform designed to enhance financial literacy and empowerm
 ## Installation
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/FinElevate.git
+https://github.com/StutiAttri/FinElevate-
 cd FinElevate
 ```
 ### 2. Install Dependencies
